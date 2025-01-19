@@ -5,7 +5,7 @@
 
 This is a very simple website that I made that highlights the top four of my most important links. This includes my
 Github repository, LinkedIn profile, Twitter profile, and my resume. This project is updated every time I update my 
-resume as I just change the link.
+resume as I just change the link. This website is fully responsive and can be viewed across multiple different devices.
 
 <br>
 
